@@ -7,3 +7,5 @@ This is a commit of a markdown file.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] add a list to the markdown file
+- [ ] commit
